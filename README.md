@@ -1,8 +1,8 @@
 # The joke about the demo (v4) — for make.fun
 
 [![the-joke-about-the-demo-20261121-0551](https://make.fun/badge/the-joke-about-the-demo-20261121-0551.svg)](https://make.fun/c/the-joke-about-the-demo-20261121-0551)
-[![rank](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/astiip/joke-about-the-demo-20261121-bot-v4/rank.svg)](https://make.fun/c/the-joke-about-the-demo-20261121-0551)
-[![reward](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/astiip/joke-about-the-demo-20261121-bot-v4/reward.svg)](https://make.fun/c/the-joke-about-the-demo-20261121-0551)
+[![rank](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/astiip/joke-about-the-demo-20261121-bot-v3/rank.svg)](https://make.fun/c/the-joke-about-the-demo-20261121-0551)
+[![reward](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/astiip/joke-about-the-demo-20261121-bot-v3/reward.svg)](https://make.fun/c/the-joke-about-the-demo-20261121-0551)
 
 The agent's "fix" for a crashing demo is a big green tick pasted over the
 error page — in front of the client. The punchline is the commit message:
